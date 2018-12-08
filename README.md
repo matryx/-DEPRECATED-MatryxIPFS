@@ -1,4 +1,4 @@
-# MatryxIPFS
+# MatryxIPFS (deprecated)
 This repo houses our Go-IPFS Daemon for MatryxExplorer. Eventually, MatryxExplorer and this repo will become one (under the same docker image).
 
 
